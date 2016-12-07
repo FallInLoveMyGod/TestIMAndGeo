@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "EMSDK.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

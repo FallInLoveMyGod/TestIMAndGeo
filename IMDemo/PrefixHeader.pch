@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  IMDemo
+//
+//  Created by 田耀琦 on 16/11/10.
+//  Copyright © 2016年 田耀琦. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+#pragma mark ----- 当前账户，朋友账户，添加账户 -----
+#define currentID @"5001"
+#define friendID @"4001"
+#define addID @"4001"
+
+#define App_WIDTH [UIScreen mainScreen].bounds.size.width
+#define App_HEIGHT [UIScreen mainScreen].bounds.size.height
